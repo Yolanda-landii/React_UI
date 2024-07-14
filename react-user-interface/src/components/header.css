@@ -1,0 +1,37 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 50px;
+    background-color: #ffffff;
+    border-bottom: 1px solid #e6e6e6;
+  }
+  
+  .logo {
+    font-size: 24px;
+    font-weight: bold;
+    color: #000000;
+  }
+  
+  nav ul {
+    display: flex;
+    gap: 30px;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  nav ul li {
+    font-size: 14px;
+    color: #333333;
+  }
+  
+  .get-started {
+    padding: 10px 20px;
+    background-color: #000000;
+    color: #ffffff;
+    border: none;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  

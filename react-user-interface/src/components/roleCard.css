@@ -1,0 +1,21 @@
+.role-card {
+  display: inline-block;
+  padding: 20px;
+  border: 1px solid #000000;
+  border-radius: 10px;
+  margin: 10px;
+  background-color: #f0f0f0;
+  text-align: left;
+  min-width: 150px;
+}
+
+.role-card h3 {
+  font-size: 18px;
+  color: #000000;
+  margin-bottom: 10px;
+}
+
+.role-card p {
+  font-size: 14px;
+  color: #555555;
+}
